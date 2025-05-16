@@ -1,0 +1,603 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\project\\cpp\\SoftwareRenderer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{132246AC-C688-4E8B-A9F7-F326BE7E0BC1}|SoftwareRenderer\\SoftwareRenderer.vcxproj|D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{132246AC-C688-4E8B-A9F7-F326BE7E0BC1}|SoftwareRenderer\\SoftwareRenderer.vcxproj|solutionrelative:SoftwareRenderer\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132246AC-C688-4E8B-A9F7-F326BE7E0BC1}|SoftwareRenderer\\SoftwareRenderer.vcxproj|D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\Light.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{132246AC-C688-4E8B-A9F7-F326BE7E0BC1}|SoftwareRenderer\\SoftwareRenderer.vcxproj|solutionrelative:SoftwareRenderer\\Light.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132246AC-C688-4E8B-A9F7-F326BE7E0BC1}|SoftwareRenderer\\SoftwareRenderer.vcxproj|D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\Color.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{132246AC-C688-4E8B-A9F7-F326BE7E0BC1}|SoftwareRenderer\\SoftwareRenderer.vcxproj|solutionrelative:SoftwareRenderer\\Color.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132246AC-C688-4E8B-A9F7-F326BE7E0BC1}|SoftwareRenderer\\SoftwareRenderer.vcxproj|D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\Camera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{132246AC-C688-4E8B-A9F7-F326BE7E0BC1}|SoftwareRenderer\\SoftwareRenderer.vcxproj|solutionrelative:SoftwareRenderer\\Camera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132246AC-C688-4E8B-A9F7-F326BE7E0BC1}|SoftwareRenderer\\SoftwareRenderer.vcxproj|D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\Buffer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{132246AC-C688-4E8B-A9F7-F326BE7E0BC1}|SoftwareRenderer\\SoftwareRenderer.vcxproj|solutionrelative:SoftwareRenderer\\Buffer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132246AC-C688-4E8B-A9F7-F326BE7E0BC1}|SoftwareRenderer\\SoftwareRenderer.vcxproj|D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\MyMath.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{132246AC-C688-4E8B-A9F7-F326BE7E0BC1}|SoftwareRenderer\\SoftwareRenderer.vcxproj|solutionrelative:SoftwareRenderer\\MyMath.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132246AC-C688-4E8B-A9F7-F326BE7E0BC1}|SoftwareRenderer\\SoftwareRenderer.vcxproj|D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\Mesh.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{132246AC-C688-4E8B-A9F7-F326BE7E0BC1}|SoftwareRenderer\\SoftwareRenderer.vcxproj|solutionrelative:SoftwareRenderer\\Mesh.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132246AC-C688-4E8B-A9F7-F326BE7E0BC1}|SoftwareRenderer\\SoftwareRenderer.vcxproj|D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\Light.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{132246AC-C688-4E8B-A9F7-F326BE7E0BC1}|SoftwareRenderer\\SoftwareRenderer.vcxproj|solutionrelative:SoftwareRenderer\\Light.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132246AC-C688-4E8B-A9F7-F326BE7E0BC1}|SoftwareRenderer\\SoftwareRenderer.vcxproj|D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\Input.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{132246AC-C688-4E8B-A9F7-F326BE7E0BC1}|SoftwareRenderer\\SoftwareRenderer.vcxproj|solutionrelative:SoftwareRenderer\\Input.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132246AC-C688-4E8B-A9F7-F326BE7E0BC1}|SoftwareRenderer\\SoftwareRenderer.vcxproj|D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\global.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{132246AC-C688-4E8B-A9F7-F326BE7E0BC1}|SoftwareRenderer\\SoftwareRenderer.vcxproj|solutionrelative:SoftwareRenderer\\global.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132246AC-C688-4E8B-A9F7-F326BE7E0BC1}|SoftwareRenderer\\SoftwareRenderer.vcxproj|D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\Color.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{132246AC-C688-4E8B-A9F7-F326BE7E0BC1}|SoftwareRenderer\\SoftwareRenderer.vcxproj|solutionrelative:SoftwareRenderer\\Color.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132246AC-C688-4E8B-A9F7-F326BE7E0BC1}|SoftwareRenderer\\SoftwareRenderer.vcxproj|D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\Camera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{132246AC-C688-4E8B-A9F7-F326BE7E0BC1}|SoftwareRenderer\\SoftwareRenderer.vcxproj|solutionrelative:SoftwareRenderer\\Camera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132246AC-C688-4E8B-A9F7-F326BE7E0BC1}|SoftwareRenderer\\SoftwareRenderer.vcxproj|D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\Buffer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{132246AC-C688-4E8B-A9F7-F326BE7E0BC1}|SoftwareRenderer\\SoftwareRenderer.vcxproj|solutionrelative:SoftwareRenderer\\Buffer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132246AC-C688-4E8B-A9F7-F326BE7E0BC1}|SoftwareRenderer\\SoftwareRenderer.vcxproj|D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\Renderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{132246AC-C688-4E8B-A9F7-F326BE7E0BC1}|SoftwareRenderer\\SoftwareRenderer.vcxproj|solutionrelative:SoftwareRenderer\\Renderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132246AC-C688-4E8B-A9F7-F326BE7E0BC1}|SoftwareRenderer\\SoftwareRenderer.vcxproj|D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\Renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{132246AC-C688-4E8B-A9F7-F326BE7E0BC1}|SoftwareRenderer\\SoftwareRenderer.vcxproj|solutionrelative:SoftwareRenderer\\Renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132246AC-C688-4E8B-A9F7-F326BE7E0BC1}|SoftwareRenderer\\SoftwareRenderer.vcxproj|D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\Windows.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{132246AC-C688-4E8B-A9F7-F326BE7E0BC1}|SoftwareRenderer\\SoftwareRenderer.vcxproj|solutionrelative:SoftwareRenderer\\Windows.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132246AC-C688-4E8B-A9F7-F326BE7E0BC1}|SoftwareRenderer\\SoftwareRenderer.vcxproj|D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\Shader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{132246AC-C688-4E8B-A9F7-F326BE7E0BC1}|SoftwareRenderer\\SoftwareRenderer.vcxproj|solutionrelative:SoftwareRenderer\\Shader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132246AC-C688-4E8B-A9F7-F326BE7E0BC1}|SoftwareRenderer\\SoftwareRenderer.vcxproj|D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\Texture.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{132246AC-C688-4E8B-A9F7-F326BE7E0BC1}|SoftwareRenderer\\SoftwareRenderer.vcxproj|solutionrelative:SoftwareRenderer\\Texture.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132246AC-C688-4E8B-A9F7-F326BE7E0BC1}|SoftwareRenderer\\SoftwareRenderer.vcxproj|D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\ObjfileReader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{132246AC-C688-4E8B-A9F7-F326BE7E0BC1}|SoftwareRenderer\\SoftwareRenderer.vcxproj|solutionrelative:SoftwareRenderer\\ObjfileReader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132246AC-C688-4E8B-A9F7-F326BE7E0BC1}|SoftwareRenderer\\SoftwareRenderer.vcxproj|D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\MyMath.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{132246AC-C688-4E8B-A9F7-F326BE7E0BC1}|SoftwareRenderer\\SoftwareRenderer.vcxproj|solutionrelative:SoftwareRenderer\\MyMath.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132246AC-C688-4E8B-A9F7-F326BE7E0BC1}|SoftwareRenderer\\SoftwareRenderer.vcxproj|D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\Mesh.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{132246AC-C688-4E8B-A9F7-F326BE7E0BC1}|SoftwareRenderer\\SoftwareRenderer.vcxproj|solutionrelative:SoftwareRenderer\\Mesh.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132246AC-C688-4E8B-A9F7-F326BE7E0BC1}|SoftwareRenderer\\SoftwareRenderer.vcxproj|D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\Matrix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{132246AC-C688-4E8B-A9F7-F326BE7E0BC1}|SoftwareRenderer\\SoftwareRenderer.vcxproj|solutionrelative:SoftwareRenderer\\Matrix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132246AC-C688-4E8B-A9F7-F326BE7E0BC1}|SoftwareRenderer\\SoftwareRenderer.vcxproj|D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\Uniform.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{132246AC-C688-4E8B-A9F7-F326BE7E0BC1}|SoftwareRenderer\\SoftwareRenderer.vcxproj|solutionrelative:SoftwareRenderer\\Uniform.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132246AC-C688-4E8B-A9F7-F326BE7E0BC1}|SoftwareRenderer\\SoftwareRenderer.vcxproj|D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\Shader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{132246AC-C688-4E8B-A9F7-F326BE7E0BC1}|SoftwareRenderer\\SoftwareRenderer.vcxproj|solutionrelative:SoftwareRenderer\\Shader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132246AC-C688-4E8B-A9F7-F326BE7E0BC1}|SoftwareRenderer\\SoftwareRenderer.vcxproj|D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\Transform.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{132246AC-C688-4E8B-A9F7-F326BE7E0BC1}|SoftwareRenderer\\SoftwareRenderer.vcxproj|solutionrelative:SoftwareRenderer\\Transform.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132246AC-C688-4E8B-A9F7-F326BE7E0BC1}|SoftwareRenderer\\SoftwareRenderer.vcxproj|D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\Windows.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{132246AC-C688-4E8B-A9F7-F326BE7E0BC1}|SoftwareRenderer\\SoftwareRenderer.vcxproj|solutionrelative:SoftwareRenderer\\Windows.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132246AC-C688-4E8B-A9F7-F326BE7E0BC1}|SoftwareRenderer\\SoftwareRenderer.vcxproj|D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\Vertex.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{132246AC-C688-4E8B-A9F7-F326BE7E0BC1}|SoftwareRenderer\\SoftwareRenderer.vcxproj|solutionrelative:SoftwareRenderer\\Vertex.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132246AC-C688-4E8B-A9F7-F326BE7E0BC1}|SoftwareRenderer\\SoftwareRenderer.vcxproj|D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\Vector3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{132246AC-C688-4E8B-A9F7-F326BE7E0BC1}|SoftwareRenderer\\SoftwareRenderer.vcxproj|solutionrelative:SoftwareRenderer\\Vector3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132246AC-C688-4E8B-A9F7-F326BE7E0BC1}|SoftwareRenderer\\SoftwareRenderer.vcxproj|D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\Transform.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{132246AC-C688-4E8B-A9F7-F326BE7E0BC1}|SoftwareRenderer\\SoftwareRenderer.vcxproj|solutionrelative:SoftwareRenderer\\Transform.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132246AC-C688-4E8B-A9F7-F326BE7E0BC1}|SoftwareRenderer\\SoftwareRenderer.vcxproj|D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\Texture.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{132246AC-C688-4E8B-A9F7-F326BE7E0BC1}|SoftwareRenderer\\SoftwareRenderer.vcxproj|solutionrelative:SoftwareRenderer\\Texture.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132246AC-C688-4E8B-A9F7-F326BE7E0BC1}|SoftwareRenderer\\SoftwareRenderer.vcxproj|D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\ObjfileReader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{132246AC-C688-4E8B-A9F7-F326BE7E0BC1}|SoftwareRenderer\\SoftwareRenderer.vcxproj|solutionrelative:SoftwareRenderer\\ObjfileReader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132246AC-C688-4E8B-A9F7-F326BE7E0BC1}|SoftwareRenderer\\SoftwareRenderer.vcxproj|D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\Matrix.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{132246AC-C688-4E8B-A9F7-F326BE7E0BC1}|SoftwareRenderer\\SoftwareRenderer.vcxproj|solutionrelative:SoftwareRenderer\\Matrix.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\um\\winioctl.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\utility||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132246AC-C688-4E8B-A9F7-F326BE7E0BC1}|SoftwareRenderer\\SoftwareRenderer.vcxproj|D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\Vertex.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{132246AC-C688-4E8B-A9F7-F326BE7E0BC1}|SoftwareRenderer\\SoftwareRenderer.vcxproj|solutionrelative:SoftwareRenderer\\Vertex.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6d4078d1-5951-4ed1-ac0e-0a8099c1cce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\main.cpp",
+              "RelativeDocumentMoniker": "SoftwareRenderer\\main.cpp",
+              "ToolTip": "D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\main.cpp",
+              "RelativeToolTip": "SoftwareRenderer\\main.cpp",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAAAGAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-13T05:04:28.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Color.h",
+              "DocumentMoniker": "D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\Color.h",
+              "RelativeDocumentMoniker": "SoftwareRenderer\\Color.h",
+              "ToolTip": "D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\Color.h",
+              "RelativeToolTip": "SoftwareRenderer\\Color.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-30T03:22:52.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "global.h",
+              "DocumentMoniker": "D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\global.h",
+              "RelativeDocumentMoniker": "SoftwareRenderer\\global.h",
+              "ToolTip": "D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\global.h",
+              "RelativeToolTip": "SoftwareRenderer\\global.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-16T12:50:59.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Input.h",
+              "DocumentMoniker": "D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\Input.h",
+              "RelativeDocumentMoniker": "SoftwareRenderer\\Input.h",
+              "ToolTip": "D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\Input.h",
+              "RelativeToolTip": "SoftwareRenderer\\Input.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-16T09:14:48.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Light.h",
+              "DocumentMoniker": "D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\Light.h",
+              "RelativeDocumentMoniker": "SoftwareRenderer\\Light.h",
+              "ToolTip": "D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\Light.h",
+              "RelativeToolTip": "SoftwareRenderer\\Light.h",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-19T05:21:48.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Mesh.h",
+              "DocumentMoniker": "D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\Mesh.h",
+              "RelativeDocumentMoniker": "SoftwareRenderer\\Mesh.h",
+              "ToolTip": "D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\Mesh.h",
+              "RelativeToolTip": "SoftwareRenderer\\Mesh.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-29T12:52:17.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyMath.h",
+              "DocumentMoniker": "D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\MyMath.h",
+              "RelativeDocumentMoniker": "SoftwareRenderer\\MyMath.h",
+              "ToolTip": "D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\MyMath.h",
+              "RelativeToolTip": "SoftwareRenderer\\MyMath.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-07T01:03:55.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Buffer.cpp",
+              "DocumentMoniker": "D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\Buffer.cpp",
+              "RelativeDocumentMoniker": "SoftwareRenderer\\Buffer.cpp",
+              "ToolTip": "D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\Buffer.cpp",
+              "RelativeToolTip": "SoftwareRenderer\\Buffer.cpp",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAAEUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-17T01:22:09.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Camera.cpp",
+              "DocumentMoniker": "D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\Camera.cpp",
+              "RelativeDocumentMoniker": "SoftwareRenderer\\Camera.cpp",
+              "ToolTip": "D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\Camera.cpp",
+              "RelativeToolTip": "SoftwareRenderer\\Camera.cpp",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAADIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-20T08:52:41.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Color.cpp",
+              "DocumentMoniker": "D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\Color.cpp",
+              "RelativeDocumentMoniker": "SoftwareRenderer\\Color.cpp",
+              "ToolTip": "D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\Color.cpp",
+              "RelativeToolTip": "SoftwareRenderer\\Color.cpp",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-29T12:58:16.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Light.cpp",
+              "DocumentMoniker": "D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\Light.cpp",
+              "RelativeDocumentMoniker": "SoftwareRenderer\\Light.cpp",
+              "ToolTip": "D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\Light.cpp",
+              "RelativeToolTip": "SoftwareRenderer\\Light.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-19T05:45:52.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Camera.h",
+              "DocumentMoniker": "D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\Camera.h",
+              "RelativeDocumentMoniker": "SoftwareRenderer\\Camera.h",
+              "ToolTip": "D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\Camera.h",
+              "RelativeToolTip": "SoftwareRenderer\\Camera.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-20T08:40:21.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Buffer.h",
+              "DocumentMoniker": "D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\Buffer.h",
+              "RelativeDocumentMoniker": "SoftwareRenderer\\Buffer.h",
+              "ToolTip": "D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\Buffer.h",
+              "RelativeToolTip": "SoftwareRenderer\\Buffer.h",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-17T01:06:11.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Renderer.h",
+              "DocumentMoniker": "D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\Renderer.h",
+              "RelativeDocumentMoniker": "SoftwareRenderer\\Renderer.h",
+              "ToolTip": "D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\Renderer.h",
+              "RelativeToolTip": "SoftwareRenderer\\Renderer.h",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACsAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-13T14:42:01.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Windows.cpp",
+              "DocumentMoniker": "D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\Windows.cpp",
+              "RelativeDocumentMoniker": "SoftwareRenderer\\Windows.cpp",
+              "ToolTip": "D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\Windows.cpp",
+              "RelativeToolTip": "SoftwareRenderer\\Windows.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAA4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-08T01:48:30.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Renderer.cpp",
+              "DocumentMoniker": "D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\Renderer.cpp",
+              "RelativeDocumentMoniker": "SoftwareRenderer\\Renderer.cpp",
+              "ToolTip": "D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\Renderer.cpp",
+              "RelativeToolTip": "SoftwareRenderer\\Renderer.cpp",
+              "ViewState": "AgIAAPgAAAAAAAAAAAAAAC4BAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-13T14:42:19.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Shader.cpp",
+              "DocumentMoniker": "D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\Shader.cpp",
+              "RelativeDocumentMoniker": "SoftwareRenderer\\Shader.cpp",
+              "ToolTip": "D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\Shader.cpp",
+              "RelativeToolTip": "SoftwareRenderer\\Shader.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-21T05:02:29.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Texture.cpp",
+              "DocumentMoniker": "D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\Texture.cpp",
+              "RelativeDocumentMoniker": "SoftwareRenderer\\Texture.cpp",
+              "ToolTip": "D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\Texture.cpp",
+              "RelativeToolTip": "SoftwareRenderer\\Texture.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAIMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-19T12:44:15.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Mesh.cpp",
+              "DocumentMoniker": "D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\Mesh.cpp",
+              "RelativeDocumentMoniker": "SoftwareRenderer\\Mesh.cpp",
+              "ToolTip": "D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\Mesh.cpp",
+              "RelativeToolTip": "SoftwareRenderer\\Mesh.cpp",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAABgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-30T09:36:17.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Matrix.cpp",
+              "DocumentMoniker": "D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\Matrix.cpp",
+              "RelativeDocumentMoniker": "SoftwareRenderer\\Matrix.cpp",
+              "ToolTip": "D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\Matrix.cpp",
+              "RelativeToolTip": "SoftwareRenderer\\Matrix.cpp",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAEQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-14T14:27:26.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ObjfileReader.cpp",
+              "DocumentMoniker": "D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\ObjfileReader.cpp",
+              "RelativeDocumentMoniker": "SoftwareRenderer\\ObjfileReader.cpp",
+              "ToolTip": "D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\ObjfileReader.cpp",
+              "RelativeToolTip": "SoftwareRenderer\\ObjfileReader.cpp",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAACkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-16T12:55:48.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MyMath.cpp",
+              "DocumentMoniker": "D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\MyMath.cpp",
+              "RelativeDocumentMoniker": "SoftwareRenderer\\MyMath.cpp",
+              "ToolTip": "D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\MyMath.cpp",
+              "RelativeToolTip": "SoftwareRenderer\\MyMath.cpp",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAB4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-07T01:21:31.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Shader.h",
+              "DocumentMoniker": "D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\Shader.h",
+              "RelativeDocumentMoniker": "SoftwareRenderer\\Shader.h",
+              "ToolTip": "D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\Shader.h",
+              "RelativeToolTip": "SoftwareRenderer\\Shader.h",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAACEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-20T14:28:25.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Transform.cpp",
+              "DocumentMoniker": "D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\Transform.cpp",
+              "RelativeDocumentMoniker": "SoftwareRenderer\\Transform.cpp",
+              "ToolTip": "D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\Transform.cpp",
+              "RelativeToolTip": "SoftwareRenderer\\Transform.cpp",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-18T13:42:55.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Uniform.h",
+              "DocumentMoniker": "D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\Uniform.h",
+              "RelativeDocumentMoniker": "SoftwareRenderer\\Uniform.h",
+              "ToolTip": "D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\Uniform.h",
+              "RelativeToolTip": "SoftwareRenderer\\Uniform.h",
+              "ViewState": "AgIAAA0AAAAAAAAAAAArwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-20T14:34:36.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Windows.h",
+              "DocumentMoniker": "D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\Windows.h",
+              "RelativeDocumentMoniker": "SoftwareRenderer\\Windows.h",
+              "ToolTip": "D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\Windows.h",
+              "RelativeToolTip": "SoftwareRenderer\\Windows.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-07T14:53:12.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Vertex.h",
+              "DocumentMoniker": "D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\Vertex.h",
+              "RelativeDocumentMoniker": "SoftwareRenderer\\Vertex.h",
+              "ToolTip": "D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\Vertex.h",
+              "RelativeToolTip": "SoftwareRenderer\\Vertex.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-29T12:55:04.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Vector3.h",
+              "DocumentMoniker": "D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\Vector3.h",
+              "RelativeDocumentMoniker": "SoftwareRenderer\\Vector3.h",
+              "ToolTip": "D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\Vector3.h",
+              "RelativeToolTip": "SoftwareRenderer\\Vector3.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAHoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-14T14:31:21.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Transform.h",
+              "DocumentMoniker": "D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\Transform.h",
+              "RelativeDocumentMoniker": "SoftwareRenderer\\Transform.h",
+              "ToolTip": "D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\Transform.h",
+              "RelativeToolTip": "SoftwareRenderer\\Transform.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-18T05:00:37.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Texture.h",
+              "DocumentMoniker": "D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\Texture.h",
+              "RelativeDocumentMoniker": "SoftwareRenderer\\Texture.h",
+              "ToolTip": "D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\Texture.h",
+              "RelativeToolTip": "SoftwareRenderer\\Texture.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-19T12:37:28.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ObjfileReader.h",
+              "DocumentMoniker": "D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\ObjfileReader.h",
+              "RelativeDocumentMoniker": "SoftwareRenderer\\ObjfileReader.h",
+              "ToolTip": "D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\ObjfileReader.h",
+              "RelativeToolTip": "SoftwareRenderer\\ObjfileReader.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-16T12:49:03.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Matrix.h",
+              "DocumentMoniker": "D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\Matrix.h",
+              "RelativeDocumentMoniker": "SoftwareRenderer\\Matrix.h",
+              "ToolTip": "D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\Matrix.h",
+              "RelativeToolTip": "SoftwareRenderer\\Matrix.h",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-14T14:27:24.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Vertex.cpp",
+              "DocumentMoniker": "D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\Vertex.cpp",
+              "RelativeDocumentMoniker": "SoftwareRenderer\\Vertex.cpp",
+              "ToolTip": "D:\\project\\cpp\\SoftwareRenderer\\SoftwareRenderer\\Vertex.cpp",
+              "RelativeToolTip": "SoftwareRenderer\\Vertex.cpp",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-29T12:55:33.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "utility",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\utility",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\utility",
+              "ViewState": "AgIAAHoAAAAAAAAAAAD4v38AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-26T03:35:33.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "winioctl.h",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\um\\winioctl.h",
+              "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\um\\winioctl.h",
+              "ViewState": "AgIAAHEJAAAAAAAAAAAiwK4JAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-18T02:31:39.876Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
